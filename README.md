@@ -59,6 +59,7 @@ We strongly encourage you to work together on test cases, so that you don’t mi
 
 
 SQL Scripts
+
 Allowed editors: vi, vim, emacs
 All your files will be executed on Ubuntu 20.04 LTS using MySQL 8.0
 Your files will be executed with SQLAlchemy version 1.4.x
